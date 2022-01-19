@@ -3,6 +3,16 @@
 ## Instructions for Custom dev workspace 
 
 #Changing Shell from Bash to ZSH 
+#Install oh-my-zsh 
+#Add ZSH Plugins 
+#Gnome Extensions 
+#Dracula Theme 
+#Background change
+
+
+
+
+#Changing Shell from Bash to ZSH 
 
 sudo apt install zsh 
 
