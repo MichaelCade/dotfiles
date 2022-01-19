@@ -83,4 +83,4 @@ gsettings set org.gnome.desktop.interface icon-theme "Dracula"
 
 git clone https://github.com/MichaelCade/dotfiles.git
 
-#change desktop background to Purple.jpg 
+#change desktop background to CachedImage_3840_1080_POS4.jpg
