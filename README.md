@@ -20,6 +20,26 @@ chsh -s $(which zsh)
 
 logout 
 
+### If `chsh` command not found
+-bash: chsh: command not found
+
+Try this one of these:
+
+| Distribution | Command to Install `passwd` Utility |
+|--------------|-----------------------------------|
+| Debian | `apt-get install passwd` |
+| Ubuntu | `apt-get install passwd` |
+| Alpine | `apk add util-linux` |
+| Arch Linux | `pacman -S util-linux` |
+| Kali Linux | `apt-get install passwd` |
+| CentOS | `yum install util-linux-ng` |
+| Fedora | `dnf install util-linux-user` |
+| macOS | `brew install util-linux` |
+| Raspbian | `apt-get install passwd` |
+
+Please note that for some distributions, such as Ubuntu and Kali Linux, the passwd utility may already be installed by default.
+
+
 ## test that it worked 
 echo $SHELL 
 
