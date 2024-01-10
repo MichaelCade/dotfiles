@@ -33,6 +33,7 @@ Try this one of these:
 | Arch Linux | `pacman -S util-linux` |
 | Kali Linux | `apt-get install passwd` |
 | CentOS | `yum install util-linux-ng` |
+| RHEL | `dnf install -y sudo zsh cracklib-dicts` |
 | Fedora | `dnf install util-linux-user` |
 | macOS | `brew install util-linux` |
 | Raspbian | `apt-get install passwd` |
